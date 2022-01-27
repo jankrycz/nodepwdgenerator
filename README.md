@@ -1,7 +1,7 @@
 # Password genertor
 Simple password generator with javascript and nodejs with user input.
 
-## Requiements
+## Requirements
 You need to have Node.js v.14+ installed
 
 ## How to run
